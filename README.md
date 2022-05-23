@@ -1,2 +1,2 @@
 # Diverse-Open-Source-Experience (DOSE)
-Creating a repo to curate and share the experiences of first-time open-source contributors. 
+Curated stories and experiences of first-time open-source contributors. 
