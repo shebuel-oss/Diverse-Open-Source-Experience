@@ -19,4 +19,6 @@
       <li>This would cobtribute to the building of a healthy open source environment. </li>
     </ul>
   </p>
+  
+  <h3>Inspire, Educate, and Influence</h3>
     
