@@ -1,4 +1,4 @@
-![Twitter header - 2](https://user-images.githubusercontent.com/66480856/170800019-2c786204-86e0-4df6-ad87-155d32252104.png)
+![Twitter header - 2 (1)](https://user-images.githubusercontent.com/66480856/170801506-8d6de5d9-3e85-4687-ac41-cd7be5736210.png)
 # Diverse-Open-Source-Experience (DOSE)
 <h3>Curated stories and experiences of first-time open-source contributors.</h3>
 <p>
@@ -16,9 +16,11 @@
       <li>Open source enthusiasts who are yet to make their first contribution, can now have a clearer picture of the nuances of being 
         a first time contributor. </li>
       <li>This would attract and retain more enthusiastic contributors to open source. </li>
-      <li>This would cobtribute to the building of a healthy open source environment. </li>
+      <li>This would contribute to the building of a healthy open source environment. </li>
+      <li>Open source organizations and communities would need informations like these to help the improve processes like onboarding and support 
+        for first-time contributors. </li>
     </ul>
   </p>
-  
+  <br>
   <h3>Inspire, Educate, and Influence</h3>
     
